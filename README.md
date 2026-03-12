@@ -107,24 +107,6 @@ Python dependencies required for the web application.
 
 ---
 
-# Tableau Dashboard
-
-The project includes an interactive dashboard built using Tableau Public.
-
-### Live Interactive Dashboard
-
-View the interactive visualization here:
-
-https://public.tableau.com/views/Electricity_17729082156350/StoryonElectricityConsumptioninIndia
-
-The dashboard includes:
-
-- National electricity consumption trends
-- State-wise electricity usage map
-- Sector-wise consumption analysis
-- Interactive filters and time exploration
-
----
 
 # Key Visualizations & Insights
 
@@ -239,16 +221,4 @@ Tools used:
 
 Dataset inspiration from publicly available electricity consumption datasets.
 
----
 
-# Author
-
-**Vidushi upadhyay**  
-March 2026
-
-Project Repository  
-https://github.com/vidushi07upadhyay/Electricity-Consumption-Analysis
-
----
-
-Made with ⚡ data, visualization, and curiosity for understanding future energy consumption.
