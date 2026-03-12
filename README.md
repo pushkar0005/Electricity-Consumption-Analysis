@@ -19,7 +19,12 @@ The objective is to understand:
 
 This project was developed as part of a **Data Analytics with Tableau course offered through SkillWallet (via college)**.
 
----
+## 👥 Team Members
+
+- Saurabh Kumar Yadav (Team Lead) 
+- Rahul Mourya
+- Rajbeer Singh 
+- Pushkarpati Tripathi
 
 # Key Questions Explored
 
