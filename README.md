@@ -26,6 +26,11 @@ This project was developed as part of a **Data Analytics with Tableau course off
 - Rajbeer Singh 
 - Pushkarpati Tripathi
 
+  ## 📊 Tableau Dashboard
+
+🔗 **View Live Dashboard:**  
+[Click here to open the Tableau Public Dashboard](https://public.tableau.com/app/profile/pushkarpati.tripathi/viz/electricity_project_17733388541900/Story1?publish=yes)
+
 # Key Questions Explored
 
 - How does electricity consumption vary across years and time periods?
